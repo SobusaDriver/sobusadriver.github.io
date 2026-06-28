@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAM_ID.com.velyt",
+        "paths": ["/velyt/search/vehicle/*", "/velyt/favorites/compare*"]
+      }
+    ]
+  }
+}
