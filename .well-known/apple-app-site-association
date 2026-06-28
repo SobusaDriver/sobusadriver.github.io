@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAM_ID.com.velyt",
+        "appID": "UHA77MWXMX.com.velyt",
         "paths": ["/velyt/search/vehicle/*", "/velyt/favorites/compare*"]
       }
     ]
