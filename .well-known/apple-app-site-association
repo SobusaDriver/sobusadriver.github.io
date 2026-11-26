@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "UHA77MWXMX.com.velyt",
-        "paths": ["/velyt/search/vehicle/*", "/velyt/favorites/compare*"]
+        "paths": ["/velyt-web/search/vehicle/*", "/velyt-web/favorites/compare*"]
       }
     ]
   }

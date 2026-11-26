@@ -1,0 +1,10 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Página no encontrada</title>
+<script>
+  // Keep old /velyt/* links working after the site moved to /velyt-web/.
+  if (location.pathname === '/velyt' || location.pathname.indexOf('/velyt/') === 0) {
+    location.replace(location.href.replace('/velyt', '/velyt-web'))
+  }
+</script>
+<p><a href="/velyt-web/">Ir a velyt</a></p>
